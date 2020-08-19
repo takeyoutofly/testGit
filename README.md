@@ -5,3 +5,5 @@ Git is a good tool
 stupid boss
 creating a new branch is quick & simple
 modify bug
+create dev
+stash dev
