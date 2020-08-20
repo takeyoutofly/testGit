@@ -8,3 +8,4 @@ modify bug
 create dev
 stash dev
 dev1
+dev2 modify
